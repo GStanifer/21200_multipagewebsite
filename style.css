@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    background-color: cornflowerblue;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: gray;
+    color: white;
+}
+h1{
+    text-align: center;
+    background-color: white;
+}
+
+p{
+    margin-bottom: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+a {
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+    transition: 0.5s;
+    margin: 0 10px;
+    line-height: 80px;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 21px;
+}
+
+img{
+    height: 200px;
+    margin-right: 10px;
+    background-color: white;
+}
